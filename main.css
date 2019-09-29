@@ -1,0 +1,58 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+a:link{
+	text-decoration: underline;
+	color:green;
+}
+
+a:visited{
+	text-decoration: underline;
+	color: white;
+}
+
+a:hover{
+	text-decoration: underline;
+	font-weight: bold;
+	color: orange;
+}
+
+a:active{
+	color: pink;
+}
+
+
+li{
+ 	color:white;
+	font-family: 'Arial', sans-serif;
+ }
+
+p{
+	color:#FF9999;
+	font-family:'Big Shoulders display',sans-serif;
+	font-size: large;
+}
+
+h1{ 
+	color:white;
+	text-align: center;
+	font-family: 'lato'; 
+ }
+
+ h2{
+ 	color:yellow;
+ 	font-family:'lato';
+ }
+
+ head{
+ 	color:white;
+ }
+
+ body{
+ 	background-color: #000066;
+ 	color:white;
+ }
